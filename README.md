@@ -1,3 +1,3 @@
 ## Link
 
-https://random-user-vuejs-maikaodev.netlify.app/
+https://maikaodev-random-user.netlify.app/
